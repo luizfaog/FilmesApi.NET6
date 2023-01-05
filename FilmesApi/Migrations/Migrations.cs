@@ -1,0 +1,7 @@
+﻿/*
+ COMO FAZER UMA MIGRATION:
+FERRAMENTAS-> GERENCIADOS DE PACOTES DO NUGET-> CONSOLE
+
+1 Add-Migration CriandoTabelaDeFilme
+2 Update-Database
+ */
